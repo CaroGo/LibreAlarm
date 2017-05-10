@@ -178,10 +178,10 @@
     <string name="pref_key_disable_touchscreen_summary">Para volver a encender pantalla tactil del reloj, apagar reloj y apretar boton hasta re-inicio</string>
 
     <!-- Title for setting to enable root -->
-    <string name="pref_key_root_title">Activar root funcionamiento</string>
+    <string name="pref_key_root_title">Activar funcionamiento araigado-root</string>
 
     <!-- Title for setting to enable root -->
-    <string name="pref_key_root_summary">Se necesita rooted reloj</string>
+    <string name="pref_key_root_summary">Se necesita reloj con derechos de administrador-root</string>
 
     <!--Title for deinstalling xDrip watchfece -->
     <string name="pref_key_unistall_xDrip_watchface_title">Deinstalar esfera xDrip</string>
